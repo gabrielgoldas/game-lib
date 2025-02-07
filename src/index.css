@@ -103,6 +103,10 @@ button {
   margin: 0;
 }
 
+#noGames {
+  margin: 4rem auto;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
